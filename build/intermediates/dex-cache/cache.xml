@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\eomin\Documents\Projects\HttpRequesterTest\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="acf6f13bc8d84065cd76e676cc70436df9e9797d">
+        <dex dex="C:\Users\eomin\Documents\Projects\HttpRequesterTest\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_07153f5a1dbb288feabb835ba4b8c705ab2fc10c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\eomin\Documents\Projects\HttpRequesterTest\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="71b6bfb4bf63d89e367d46bb772263cf7cd7829d">
+        <dex dex="C:\Users\eomin\Documents\Projects\HttpRequesterTest\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_b3a2d69ec7b08d49f7aea6de9f4e40cc21c7c593\classes.dex" />
+    </item>
+
+</items>
